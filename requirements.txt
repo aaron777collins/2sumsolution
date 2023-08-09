@@ -1,0 +1,11 @@
+pyspark
+# to use sql
+pyspark[sql]
+# to use pandas and plot
+pyspark[pandas_on_spark]
+plotly
+# to connect
+pyspark[connect]
+
+findspark
+psutil
